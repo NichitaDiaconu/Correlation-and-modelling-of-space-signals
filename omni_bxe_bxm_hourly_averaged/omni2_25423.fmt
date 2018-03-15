@@ -1,0 +1,12 @@
+  FORMAT OF THE SUBSETTED FILE
+    
+    ITEMS                      FORMAT   
+     
+ 1 YEAR                          I4        
+ 2 DOY                           I4        
+ 3 Hour                          I3        
+ 4 BZ, nT (GSE)                  F6.1      
+ 5 BZ, nT (GSM)                  F6.1      
+
+This file was produced by SPDF OMNIWeb Plus service
+https://omniweb.gsfc.nasa.gov/form/dx1.html
